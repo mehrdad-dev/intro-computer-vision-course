@@ -21,6 +21,7 @@ Image inhancment using log transformation.
 
 ### HW5
 Rescale of a image to range (0,255).
+
 ![mehrdad mohammadian](/assets/hw5.png)
 
 ### HW6
