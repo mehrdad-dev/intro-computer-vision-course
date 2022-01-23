@@ -14,3 +14,15 @@ displacement of the RGB channels.
 ### HW3
 point transformation.
 ![mehrdad mohammadian](/assets/hw3.jpg)
+
+### HW4
+Image inhancment using log transformation.
+![mehrdad mohammadian](/assets/hw4.jpg)
+
+### HW5
+Rescale of a image to range (0,255).
+![mehrdad mohammadian](/assets/hw5.png)
+
+### HW6
+Apply sharpening filter to an image. (high pass filter, loplacian of gaussian)
+![mehrdad mohammadian](/assets/hw6.jpg)
