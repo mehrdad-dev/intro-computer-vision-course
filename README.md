@@ -62,3 +62,22 @@ Apply mirror transformations to an image. (with x, y and x=y axis)
 ![mehrdad mohammadian](/assets/fun3.png)
 
 ---
+
+### HW10
+Change RGB channels with random matrix.
+![mehrdad mohammadian](/assets/hw10.png)
+
+---
+
+### Project 1
+Create Hybrid images.
+![mehrdad mohammadian](/assets/p1.jpg)
+
+Created from:
+![mehrdad mohammadian](/assets/p1-1.jpg)
+![mehrdad mohammadian](/assets/p1-2.jpg)
+
+---
+
+### Project 2
+Object localization using matlab.
