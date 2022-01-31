@@ -67,9 +67,9 @@ Apply mirror transformations to an image. (with x, y and x=y axis)
 
 **Also creat some fun images using mirror :)))))**
 
-![mehrdad mohammadian computer vision](/assets/fun1.png)
-![mehrdad mohammadian](/assets/fun2.png)
-![mehrdad mohammadian computer vision](/assets/fun3.png)
+Kafka   |  :) |  Sadegh Hedayat
+:-------------------------:|:-------------------------:|:-------------------------:
+![mehrdad mohammadian computer vision](/assets/fun1.png)  |   ![mehrdad mohammadian](/assets/fun2.png)  | ![mehrdad mohammadian computer vision](/assets/fun3.png)
 
 ---
 
@@ -81,11 +81,12 @@ Change RGB channels with random matrix.
 
 ### Project 1
 Create Hybrid images.
-![mehrdad mohammadian computer vision](/assets/p1.jpg)
 
-Created from:
-![mehrdad mohammadian](/assets/p1-1.jpg)
-![mehrdad mohammadian](/assets/p1-2.jpg)
+Hybrid Result   |  Kafka |  Friedrich Nietzsche
+:-------------------------:|:-------------------------:|:-------------------------:
+![mehrdad mohammadian computer vision](/assets/p1.jpg) |  ![mehrdad mohammadian](/assets/p1-1.jpg) | ![mehrdad mohammadian](/assets/p1-2.jpg)
+
+
 
 ---
 
