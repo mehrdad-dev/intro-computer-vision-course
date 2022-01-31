@@ -65,7 +65,7 @@ Implementation of the Canny Edge Detector. (without NMS step)
 Apply mirror transformations to an image. (with x, y and x=y axis)
 ![mehrdad mohammadian](/assets/hw9.png)
 
-**Also creat some fun images using mirror :)))))**
+**Also create some fun images using mirror :)))))**
 
 Kafka   |  :) |  Sadegh Hedayat
 :-------------------------:|:-------------------------:|:-------------------------:
