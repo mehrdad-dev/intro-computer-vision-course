@@ -1,5 +1,14 @@
 # Introduction to Computer Vision Course - Fall 2021
 
+**Semester:** Fall 2021
+
+**Lecturer:‌** Dr. Vahid Torkzadeh
+
+**GitHub Repo:** https://github.com/mehrdad-dev/webmining-course-fall2021
+
+**Tools:** Matlab (R2019b)
+
+---
 
 ## Homework list:
 
@@ -56,7 +65,7 @@ Implementation of the Canny Edge Detector. (without NMS step)
 Apply mirror transformations to an image. (with x, y and x=y axis)
 ![mehrdad mohammadian](/assets/hw9.png)
 
-**Also creat some fun images using mirror :)))**
+**Also creat some fun images using mirror :)))))**
 ![mehrdad mohammadian](/assets/fun1.png)
 ![mehrdad mohammadian](/assets/fun2.png)
 ![mehrdad mohammadian](/assets/fun3.png)
@@ -81,3 +90,4 @@ Created from:
 
 ### Project 2
 Object localization using matlab.
+![mehrdad mohammadian](/assets/p2.png)
