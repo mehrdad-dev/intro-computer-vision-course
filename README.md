@@ -1,4 +1,4 @@
-# Introduction to Computer Vision Course - Fall 2021
+# Introduction to Computer Vision Course
 
 **Semester:** Fall 2021
 
@@ -51,7 +51,7 @@ Apply sharpening filter to an image. (high pass filter, loplacian of gaussian)
 
 ### HW7
 Reduce blue color of the image N percent.
-![mehrdad mohammadian](/assets/hw7.png)
+![mehrdad mohammadian computer vision](/assets/hw7.png)
 
 ---
 
@@ -66,9 +66,9 @@ Apply mirror transformations to an image. (with x, y and x=y axis)
 ![mehrdad mohammadian](/assets/hw9.png)
 
 **Also creat some fun images using mirror :)))))**
-![mehrdad mohammadian](/assets/fun1.png)
+![mehrdad mohammadian computer vision](/assets/fun1.png)
 ![mehrdad mohammadian](/assets/fun2.png)
-![mehrdad mohammadian](/assets/fun3.png)
+![mehrdad mohammadian computer vision](/assets/fun3.png)
 
 ---
 
@@ -80,7 +80,7 @@ Change RGB channels with random matrix.
 
 ### Project 1
 Create Hybrid images.
-![mehrdad mohammadian](/assets/p1.jpg)
+![mehrdad mohammadian computer vision](/assets/p1.jpg)
 
 Created from:
 ![mehrdad mohammadian](/assets/p1-1.jpg)
@@ -90,4 +90,4 @@ Created from:
 
 ### Project 2
 Object localization using matlab.
-![mehrdad mohammadian](/assets/p2.png)
+![mehrdad mohammadian computer vision](/assets/p2.png)
