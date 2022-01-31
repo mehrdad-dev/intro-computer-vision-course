@@ -1,6 +1,6 @@
 # Introduction to Computer Vision Course
 
-**Semester:** Fall 2021
+**Semester:** Fall 2021 - Islamic Azad University, Mashhad branch
 
 **Lecturer:‌** Dr. Vahid Torkzadeh
 
