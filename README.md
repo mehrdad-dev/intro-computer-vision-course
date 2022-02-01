@@ -4,7 +4,7 @@
 
 **Lecturer:‌** Dr. Vahid Torkzadeh
 
-**GitHub Repo:** https://github.com/mehrdad-dev/webmining-course-fall2021
+**GitHub Repo:** https://github.com/mehrdad-dev/intro-computer-vision-course
 
 **Tools:** Matlab (R2019b)
 
