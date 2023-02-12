@@ -67,9 +67,9 @@ Apply mirror transformations to an image. (with x, y and x=y axis)
 
 **Also create some fun images by using mirror transformation:)))))**
 
-Kafka   |  :) |  Sadegh Hedayat
+Kafka   |  Sadegh Hedayat
 :-------------------------:|:-------------------------:|:-------------------------:
-![mehrdad mohammadian computer vision](/assets/fun1.png)  |   ![mehrdad mohammadian](/assets/fun2.png)  | ![mehrdad mohammadian computer vision](/assets/fun3.png)
+![mehrdad mohammadian computer vision](/assets/fun1.png) | ![mehrdad mohammadian computer vision](/assets/fun3.png)
 
 ---
 
