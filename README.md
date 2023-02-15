@@ -19,13 +19,13 @@ Difference of the blurred image from the original image. (obtain details)
 ---
 
 ### HW2 
-displacement of the RGB channels.
+Displacement of the RGB channels.
 ![mehrdad mohammadian](/assets/hw2.jpg)
 
 ---
 
 ### HW3
-point transformation.
+Point transformation.
 ![mehrdad mohammadian](/assets/hw3.jpg)
 
 ---
@@ -37,7 +37,7 @@ Image inhancment using log transformation.
 ---
 
 ### HW5
-Rescale of a image to range (0,255).
+Rescale of an image to range (0,255).
 
 ![mehrdad mohammadian](/assets/hw5.png)
 
@@ -65,7 +65,7 @@ Implementation of the Canny Edge Detector. (without NMS step)
 Apply mirror transformations to an image. (with x, y and x=y axis)
 ![mehrdad mohammadian](/assets/hw9.png)
 
-**Also create some fun images by using mirror transformation:)))))**
+**And also some fun images by using mirror transformation :)))))**
 
 Kafka   |  Sadegh Hedayat
 :-------------------------: | :-------------------------:
